@@ -39,6 +39,14 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "Sam",
+      "restaurant": "Boahen",
+      "image": "https://miro.medium.com/max/3150/1*77FS-Zxw0vg8dUbM5jH0xw.jpeg",
+      "rating": "10",
+      "comment": "finished just soon enough to add this picture",
+      "id": 6
     }
   ]
 }
